@@ -16,7 +16,7 @@ A contract that contains structs and a dictionary/array.
 
 ## Author
 
-[Opeyemi Esther Agbaje](https://github.com/esteriella)
+[Nicholas Adesina](https://github.com/nicklaus07)
 
 ## License
 
